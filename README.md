@@ -45,18 +45,19 @@ This Telegram bot listens to user messages, detects specific keywords or command
 5. Interact with it on Telegram and see it respond automatically
 
 ---
-## Install dependencies
 
-pip install python-telegram-bot
-
-## 🔧 Setup Instructions
-
-### Clone this repository
+## 📥Clone this Repository
 ```bash
 git clone [GitHub link here]
 cd custom-reply-telegram-bot
+```
+---
 
-
-
-Let me know if you'd like help adding badges (stars, license, version, etc.), a table of contents, or demo GIFs/screenshots!
+## 📦Install Dependencies
+Make sure you have Python 3.x installed. Then run:
+```bash
+pip install python-telegram-bot
+```
+---
+# Let me know if you'd like help adding badges (stars, license, version, etc.), a table of contents, or demo GIFs/screenshots!
 
