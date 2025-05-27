@@ -4,8 +4,9 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, Messa
 import os
 
 # Set your token here directly (or load via env if you deploy securely)
-TOKEN: Final = "7635971252:AAGsdhATslkGq95ep4yI6i7pSsydS6_jKQk"
-BOT_USERNAME: Final = "@sssaample_bot"
+TOKEN: Final = "TOKEN_NUMBER"    
+# Inculde your token number and bot username 
+BOT_USERNAME: Final = "BOT_USERNAME"
 
 # --- Command Handlers ---
 
