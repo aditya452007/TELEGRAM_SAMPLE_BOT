@@ -10,7 +10,7 @@ A simple yet powerful Telegram bot built using **Python** and the `python-telegr
 
 This Telegram bot listens to user messages, detects specific keywords or commands, and sends back relevant custom responses. It’s designed to:
 
-- Automate repetitive messaging tasks  
+- Automate repetitive messaging tasks.
 - Provide instant replies in group chats or channels  
 - Offer keyword-based or command-based interaction  
 - Support multiple reply formats (text, emoji, media — customizable)
