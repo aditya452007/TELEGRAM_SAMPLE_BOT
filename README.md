@@ -41,7 +41,7 @@ This Telegram bot listens to user messages, detects specific keywords or command
 1. Set up your bot via [BotFather](https://core.telegram.org/bots#6-botfather) on Telegram  
 2. Add your Bot Token to the Python script  
 3. Define your custom replies in the code or a config file  
-4. Run the bot locally or deploy it on a server  
+4. Run the bot locally or deploy it on a server .
 5. Interact with it on Telegram and see it respond automatically
 
 ---
